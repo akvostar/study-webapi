@@ -34,3 +34,4 @@ D:\test\webapi\obj\Debug\net9.0\ref\webapi.dll
 D:\test\webapi\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\test\webapi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\test\webapi\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\test\webapi\obj\Debug\net9.0\webapi.sourcelink.json
