@@ -1,0 +1,9 @@
+@webapi_HostAddress = http://localhost:5021
+# /swagger/
+
+GET {{webapi_HostAddress}}/weatherforecast/1
+Accept: application/json
+
+###
+GET {{webapi_HostAddress}}/WeatherForecast/Forecasts/1
+Accept: application/json
